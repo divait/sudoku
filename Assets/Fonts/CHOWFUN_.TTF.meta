@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d1610d5a941270949a5fa83a5f231c08
+timeCreated: 1484713534
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chow Fun
+  fontNames:
+  - Chow Fun
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
